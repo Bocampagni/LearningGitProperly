@@ -1,4 +1,4 @@
-# GIT E GITHUB
+# GIT
 
 * 'git init' -> inicia a linha do tempo
 * 'git add' -> Adiciona o arquivo para ser commitado
@@ -27,9 +27,9 @@
 
 
 
-==============================================GITHUB========================================================
+# GITHUB
 
-git remote -v -> olha os repositórios remotos.
+* 'git remote' -v -> olha os repositórios remotos.
 
-git push -u origin master -> É necessário criar a branch master quando vamos fazer o 'git push' pela primeira vez.
-git push -> vai empurrar o repositório local para o da nuvem.
+* 'git push' -u origin master -> É necessário criar a branch master quando vamos fazer o 'git push' pela primeira vez.
+* 'git push' -> vai empurrar o repositório local para o da nuvem.
