@@ -39,3 +39,8 @@
 # Recuperando um arquivo em um dado ponto passado:
 
 * `git checkout ` + hash do commit + nome do arquivo -> Irá te retornar o arquivo já pronto para o commit.
+
+# Recuperando um arquivo deletado:
+
+    Caso você tenha deletado o arquivo, ao invés de ir na lixeira, você pode recuperar pelo git: 
+* `git checkout -- ` + nome do arquivo.
