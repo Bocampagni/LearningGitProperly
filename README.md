@@ -1,6 +1,6 @@
 #GIT E GITHUB
 
-git init -> inicia a linha do tempo
+* 'git init' -> inicia a linha do tempo
 git add -> Adiciona o arquivo para ser commitado
 git commit -> Cria um ponto na linha do tempo
 git log -> Mostra os pontos na história do projeto
